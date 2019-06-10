@@ -1,0 +1,60 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Hugo Casper Two"
+  subtitle    = "DENYS NAHURNYI"
+
+  cover       = "img/space-cover-medium.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "d_n826"
+  fbName = "dnahurnyi"
+  githubName = "dnahurnyi"
+
+  logo = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/92/robot-face_1f916.png" # https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/google/40/robot-face_1f916.png
+  orgName = "Nahurnyi Inc."
+  orgWebsite = "https://www.netflix.com/ua/"
+  orgDescription = "My startup company"
+
+  author = "Denys Nahurnyi"
+  authorAvatar = "img/author.jpg"
+  authorLocation = "Lviv, UA"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Comedian"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Go"
+  url = "/tags/golang/"
+  weight = 100
+
+[[menu.main]]
+  name = "Food"
+  url = "/categories/food/"
+  weight = 99
+
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95
