@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = ""
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -48,11 +48,6 @@ paginate        = 6
   name = "Go"
   url = "/tags/golang/"
   weight = 100
-
-[[menu.main]]
-  name = "Food"
-  url = "/categories/food/"
-  weight = 99
 
 [[menu.main]]
   name = "External"
