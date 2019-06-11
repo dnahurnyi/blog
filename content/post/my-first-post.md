@@ -2,7 +2,8 @@
 title: "Sync package"
 date: 2019-06-10T16:31:28+03:00
 draft: false
-image: img/launch.jpg
+image: https://media.giphy.com/media/JuBPvGDPI21kk/giphy.gif
+tags: ["article"]
 ---
 
 ### This is the post about sync package. <br/>
