@@ -6,11 +6,11 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Hugo Casper Two"
+  title       = "Denys Nahurnyi blog"
   subtitle    = "DENYS NAHURNYI"
 
-  cover       = "img/space-cover-medium.jpg"
-  description = "Here is a description of your site."
+  cover       = "img/space-cover-medium-min.jpg"
+  description = "This is my blog"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -26,9 +26,9 @@ paginate        = 6
   orgDescription = "My startup company"
 
   author = "Denys Nahurnyi"
-  authorAvatar = "img/author.jpg"
+  authorAvatar = "img/author-min-min.jpg"
   authorLocation = "Lviv, UA"
-  authorWebsite = "https://eueung.github.io"
+  authorWebsite = "https://dnahurnyi.com"
   authorDescription = "Comedian"
 
   pageNotFoundTitle = "404 - Page not found"
