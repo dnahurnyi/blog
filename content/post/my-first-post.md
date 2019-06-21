@@ -71,8 +71,8 @@ And when visitors come out, each of them calls wg.Done(). Security guy stay in t
 ![Gif](https://media.giphy.com/media/ghCSaJHMjl4ym9fa8X/giphy.gif)
 I have tried to explain how we could use primitives from sync package, I haven't mentioned Locker, it's an interface that has the same methods as Mutex has.
 ![Gif](https://media.giphy.com/media/fYSoe43GgY2PLzEKxx/giphy.gif)
-If you read to this place I want to thank you, this is my first article written in English so please don't judge me too harshly. If you have any questions, propositions or just found a typo please contact me on through the twitter or common email dnahurnyi@gmail.com.
+<p>If you read to this place I want to thank you, this is my first article written in English so please don't judge me too harshly. If you have any questions, propositions or just found a typo please contact me on [twitter](https://twitter.com/d_n826) or common [email](mailto:dnahurnyi@gmail.com).</p>
 ![Gif](https://media.giphy.com/media/U4XrtU3xQHXiVhjQ6h/giphy.gif)
-<br/>
+<hr/>
 This is my lightning talk from the GopherconEU 2019:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gw0mzVa4wnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
