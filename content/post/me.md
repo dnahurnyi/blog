@@ -1,7 +1,7 @@
 ---
 title: "About me"
 date: 2019-11-26T21:52:52+02:00
-image: img/animation.gif
+image: https://media.giphy.com/media/W3gIxerrdBgDp94IgE/giphy.gif
 draft: false
 ---
 
