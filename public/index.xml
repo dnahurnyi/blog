@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://www.dnahurnyi.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Nov 2019 21:52:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.dnahurnyi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://www.dnahurnyi.com/about-me/</link>
+      <pubDate>Tue, 26 Nov 2019 21:52:52 +0200</pubDate>
+      
+      <guid>https://www.dnahurnyi.com/about-me/</guid>
+      <description>I am a software developer from Lviv, Ukraine. Write mostly on Go and Python. I am interested in things related to cloud and distributed systems. Also, I like comedy and can’t imagine my life without a humor 😜</description>
+    </item>
+    
+    <item>
+      <title>Sync package</title>
+      <link>https://www.dnahurnyi.com/sync-package/</link>
+      <pubDate>Mon, 10 Jun 2019 16:31:28 +0300</pubDate>
+      
+      <guid>https://www.dnahurnyi.com/sync-package/</guid>
+      <description>Sync package primitives explained.  Recently I have visited GopherConEU 2019 that took place on the beautiful Canary Islands, Tenerife. I have presented my lightning talk about sync package primitives and how to use them, in my case to manage attraction in an amusement park. This post will try to help in case you want to explore sync package or missed something from my talk.   When you build your program, usually you have complete concept, idea that you understand, so with input in one place, you always can tell where will be the output.</description>
+    </item>
+    
+  </channel>
+</rss>

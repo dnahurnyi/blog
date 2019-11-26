@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.dnahurnyi.com/</loc>
+    <lastmod>2019-11-26T21:52:52+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dnahurnyi.com/about-me/</loc>
+    <lastmod>2019-11-26T21:52:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dnahurnyi.com/post/</loc>
+    <lastmod>2019-11-26T21:52:52+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dnahurnyi.com/sync-package/</loc>
+    <lastmod>2019-06-10T16:31:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dnahurnyi.com/tags/</loc>
+    <lastmod>2019-06-10T16:31:28+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dnahurnyi.com/tags/article/</loc>
+    <lastmod>2019-06-10T16:31:28+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dnahurnyi.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
