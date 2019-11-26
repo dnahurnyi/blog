@@ -5,4 +5,4 @@ image: img/animation.gif
 draft: false
 ---
 
-Software developer from Lviv, Ukraine. Write mostly on Go and Python. I am interested in things related to cloud and distributed systems. Also I like comedy and can't imagine my life without a humor 😜  
+I am a software developer from Lviv, Ukraine. Write mostly on Go and Python. I am interested in things related to cloud and distributed systems. Also, I like comedy and can’t imagine my life without a humor 😜  
