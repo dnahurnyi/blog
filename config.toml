@@ -22,13 +22,13 @@ paginate        = 6
 
   logo = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/92/robot-face_1f916.png" # https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/google/40/robot-face_1f916.png
   orgName = "Nahurnyi Inc."
-  orgWebsite = "https://www.netflix.com/ua/"
+  orgWebsite = "https://www.dnahurnyi.com/about-me"
   orgDescription = "My startup company"
 
   author = "Denys Nahurnyi"
   authorAvatar = "img/author-min-min.jpg"
   authorLocation = "Lviv, UA"
-  authorWebsite = "https://dnahurnyi.com"
+  authorWebsite = "https://dnahurnyi.com/about-me"
   authorDescription = "Comedian"
 
   pageNotFoundTitle = "404 - Page not found"
