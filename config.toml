@@ -1,4 +1,4 @@
-baseurl         = "https://www.dnahurnyi.com/about-me"
+baseurl         = "https://www.dnahurnyi.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "dnahurnyi-com"
