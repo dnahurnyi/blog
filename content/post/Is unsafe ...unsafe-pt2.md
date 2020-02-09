@@ -4,7 +4,7 @@ date: 2020-02-03T19:12:30+02:00
 draft: false
 image: https://media.giphy.com/media/SirldH9OfEP4c/giphy.gif
 ---
-In the last post, I have told about unsafe package details and functions. 
+In the [last post](https://www.dnahurnyi.com/is-unsafe-...unsafe-pt.-1/), I have told about unsafe package details and functions. 
 There is one type left unexplained
 
 ### [```type Pointer ```](https://golang.org/pkg/unsafe/#Pointer)<br/><br/> 
