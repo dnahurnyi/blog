@@ -158,4 +158,4 @@ fmt.Println("Offset of x.c: ", unsafe.Offsetof(x.c))
 
 All 3 reviewed functions work in the [compile-time](https://en.wikipedia.org/wiki/Compile_time), it means that they will work properly in your program or will return an error when you will try to compile your program. 
 But our next guest is much more unpredictable, it can crash the program in [run time](https://en.wikipedia.org/wiki/Runtime_(program_lifecycle_phase)) too.
-Read about `unsafe.Pointer` and common problems of `unsafe` in the second part. !!!Leave a link
+Read about `unsafe.Pointer` and common problems of `unsafe` in the [second part](https://www.dnahurnyi.com/is-unsafe-...unsafe-pt.-2/).
