@@ -10,8 +10,7 @@ This time I held a talk at [Lviv Golang community event](https://www.facebook.co
 I was talking about unsafe package and tried to answer how unsafe is `unsafe` package.
 <hr/>
 Unsafe package has a concise and descriptive name, which warns you even if you don't know what possibilities this package provides and at what price. 
-I love the name as it follows all recommendations from "Effective Go". 
-Actually, when using `unsafe` package we should strictly follow Go team's documentation and recommendations. 
+I love the name as it follows all recommendations from "Effective Go". Actually, when using unsafe package we should strictly follow Go team's documentation and recommendations. 
 Here is the all the provided description for this package
 
 > "Package unsafe contains operations that step around the type safety of Go programs.", [golang.org](https://golang.org/pkg/unsafe/#pkg-overview)
