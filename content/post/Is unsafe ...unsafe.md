@@ -3,6 +3,7 @@ title: "Is unsafe ...unsafe?  Pt. 1"
 date: 2020-02-03T19:12:30+02:00
 draft: false
 image: https://media.giphy.com/media/q2VeuCQsVEEPS/giphy.gif
+tags: ["article"]
 ---
 
 ### Unsafe package explained<br/>
