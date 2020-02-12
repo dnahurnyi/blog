@@ -78,7 +78,7 @@ type X struct {
 	n2 int16
 }
 ```
-You already know how it will be placed in memory, but this time let's see how many bytes each field will take:
+You already know how it will be placed in memory, but this time let's see how many bytes each field will take. 
 It will be placed in memory in the following way: 
 
 ![Offsetof memory usage](/img/Offsetof-memory.png)
