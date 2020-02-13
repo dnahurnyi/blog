@@ -30,7 +30,7 @@ paginate        = 6
   authorAvatar = "img/author-min-min.jpg"
   authorLocation = "Lviv, UA"
   authorWebsite = "https://dnahurnyi.com/about-me"
-  authorDescription = "Comedian"
+  authorDescription = "Software engineer"
 
   pageNotFoundTitle = "404 - Page not found"
 
