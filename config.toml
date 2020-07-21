@@ -12,7 +12,7 @@ paginate        = 6
   cover       = "img/space-cover-medium-min.jpg"
   description = "This is my blog"
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-173148327-1"
   customCSS = []
   RSSLink = ""
 
